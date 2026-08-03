@@ -335,7 +335,7 @@ span {
 }
 .cta-buttons {
   display: flex;
-  gap: 20px;
+  gap: 2px;
   flex-wrap: wrap;
   opacity: 1;
   transform: translate(20px);
